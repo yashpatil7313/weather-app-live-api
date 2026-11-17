@@ -1,0 +1,69 @@
+{
+  "city": "Mumbai",
+  "country": "India",
+  "latitude": 19.07283,
+  "longitude": 72.88261,
+  "temp_c": 33.4,
+  "temp_f": 92.11999999999999,
+  "feels_like_c": 34.7,
+  "feels_like_f": 94.46000000000001,
+  "humidity": 26,
+  "wind_speed_kmh": 3.1,
+  "wind_speed_mph": 1.9262501,
+  "pressure_hpa": 1010,
+  "condition": "Clear Sky",
+  "icon": "\u2600\ufe0f",
+  "provider": "Open-Meteo REST API",
+  "forecast": [
+    {
+      "date": "2026-11-17",
+      "temp_max_c": 33.4,
+      "temp_max_f": 92.11999999999999,
+      "temp_min_c": 22.4,
+      "temp_min_f": 72.32,
+      "condition": "Mainly Clear",
+      "icon": "\ud83c\udf24\ufe0f",
+      "precip_prob": 0
+    },
+    {
+      "date": "2026-11-18",
+      "temp_max_c": 33.9,
+      "temp_max_f": 93.02,
+      "temp_min_c": 22.7,
+      "temp_min_f": 72.86,
+      "condition": "Mainly Clear",
+      "icon": "\ud83c\udf24\ufe0f",
+      "precip_prob": 0
+    },
+    {
+      "date": "2026-11-19",
+      "temp_max_c": 33.7,
+      "temp_max_f": 92.66,
+      "temp_min_c": 24.0,
+      "temp_min_f": 75.2,
+      "condition": "Clear Sky",
+      "icon": "\u2600\ufe0f",
+      "precip_prob": 0
+    },
+    {
+      "date": "2026-11-20",
+      "temp_max_c": 31.2,
+      "temp_max_f": 88.16,
+      "temp_min_c": 21.6,
+      "temp_min_f": 70.88,
+      "condition": "Clear Sky",
+      "icon": "\u2600\ufe0f",
+      "precip_prob": 0
+    },
+    {
+      "date": "2026-11-21",
+      "temp_max_c": 32.0,
+      "temp_max_f": 89.6,
+      "temp_min_c": 20.1,
+      "temp_min_f": 68.18,
+      "condition": "Clear Sky",
+      "icon": "\u2600\ufe0f",
+      "precip_prob": 10
+    }
+  ]
+}
